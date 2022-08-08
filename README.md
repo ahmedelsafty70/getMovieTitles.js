@@ -1,6 +1,6 @@
 # getMovieTitles.js
 
-## Given a string substr, getMovieTitles() must perform the following tasks:
+#### Given a string substr, getMovieTitles() must perform the following tasks:
 
 Query https://jsonmock.hackerrank.com/api/movies/search/?Title=substr (replace substr).
 Initialize the titles array to store total string elements. Store the Title of each movie meeting the search criterion in the titles array.
